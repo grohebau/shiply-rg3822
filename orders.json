@@ -1,6 +1,6 @@
 {
   "S41585": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Steffen Meier, Am Brink 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Hans Werner Hanisch, Lochkoppel 4, 21401 Thomasburg OT Bavendorf, Deutschland",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "02.12.2025",
-    "deliveryDate": "09.12.2025",
+    "deliveryDate": "12.12.2025, 15:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Altenwerder Hauptstraße 11-15",
+      "postal_code": "21129",
+      "city": "Hamburg",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
